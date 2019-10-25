@@ -1,4 +1,4 @@
-#README for rift_example_code
+## README for rift_example_code
 
 rift_run.R contains code to read in example data and apply the RIFT method
 rift_functions.R contains functions used in rift_run.R 
